@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": 
+    [
+        {
+            "name": "Cortex Debug",
+            "cwd": "${workspaceRoot}",
+            "executable": "./build/AllPrime_Refrigerator_Master.elf",
+            "request": "attach",
+            "type": "cortex-debug",
+            "servertype": "openocd",
+            "device": "STM32F030x8",
+            "configFiles": 
+            [
+                "interface/stlink.cfg",
+                "target/stm32f0x.cfg"
+            ],
+            "svdFile": "./STM32F0x0.svd"
+        }
+    ]
+}

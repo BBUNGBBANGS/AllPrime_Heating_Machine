@@ -1,0 +1,21 @@
+{
+    "tasks": 
+    [
+        {
+            "type": "shell",
+            "label": "STM32 컴파일",
+            "command": "/${workspaceFolder}/.vscode/make.bat"
+        },
+        {
+            "type": "shell",
+            "label": "STM32 컴파일 & Flash",
+            "command": "/${workspaceFolder}/.vscode/flash.bat"
+        },        
+        {
+            "type": "shell",
+            "label": "STM32 Clean",
+            "command": "/${workspaceFolder}/.vscode/clean.bat"
+        },
+    ],
+    "version": "2.0.0"
+}

@@ -1,0 +1,3 @@
+@echo on
+clean
+exit

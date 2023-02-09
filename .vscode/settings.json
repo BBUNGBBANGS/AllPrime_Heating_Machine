@@ -1,0 +1,16 @@
+{
+    "cortex-debug.armToolchainPath": "D:\\3.TOOLS\\ARM_GCC_TOOLCHAIN\\BIN",
+    "cortex-debug.openocdPath": "D:\\3.tools\\openocd-20210625\\OpenOCD-20210625-0.11.0\\bin\\OPENOCD.EXE",
+    "files.associations": {
+        "switch.h": "c",
+        "main.h": "c",
+        "blutooth.h": "c",
+        "pwm.h": "c",
+        "vardef.h": "c",
+        "oled.h": "c",
+        "string.h": "c",
+        "stm32f1xx_hal.h": "c",
+        "eeprom.h": "c"
+    },
+    "cortex-debug.showRTOS": false
+}
