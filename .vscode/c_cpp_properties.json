@@ -1,31 +1,32 @@
 {
-  "configurations": [
-    {
-      "name": "STM32",
-      "includePath": [
-        "${workspaceFolder}/**",
-        "Core/Inc",
-        "Drivers/CMSIS/Device/ST/STM32F0xx/Include",
-        "Drivers/CMSIS/Include",
-        "Drivers/STM32F0xx_HAL_Driver/Inc",
-        "Drivers/STM32F0xx_HAL_Driver/Inc/Legacy"
-      ],
-      "defines": [
-        "STM32F030x8",
-        "UNICODE",
-        "USE_HAL_DRIVER",
-        "_DEBUG",
-        "_UNICODE"
-      ],
-      "cStandard": "c17",
-      "cppStandard": "c++17",
-      "intelliSenseMode": "gcc-arm",
-      "compilerPath": "D:\\3.TOOLS\\ARM_GCC_TOOLCHAIN\\BIN\\ARM-NONE-EABI-GCC.EXE",
-      "compilerArgs": [
-        "-mcpu=cortex-m0",
-        "-mthumb"
-      ]
-    }
-  ],
-  "version": 4
+    "configurations": [
+        {
+            "name": "STM32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "Core/Inc",
+                "Drivers/CMSIS/Device/ST/STM32F0xx/Include",
+                "Drivers/CMSIS/Include",
+                "Drivers/STM32F0xx_HAL_Driver/Inc",
+                "Drivers/STM32F0xx_HAL_Driver/Inc/Legacy"
+            ],
+            "defines": [
+                "STM32F030x8",
+                "UNICODE",
+                "USE_HAL_DRIVER",
+                "_DEBUG",
+                "_UNICODE"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-arm",
+            "compilerPath": "D:\\3.TOOLS\\ARM_GCC_TOOLCHAIN\\BIN\\ARM-NONE-EABI-GCC.EXE",
+            "compilerArgs": [
+                "-mcpu=cortex-m0",
+                "-mthumb"
+            ],
+            "configurationProvider": "ms-vscode.makefile-tools"
+        }
+    ],
+    "version": 4
 }

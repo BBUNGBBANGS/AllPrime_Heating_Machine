@@ -5,7 +5,7 @@
         {
             "name": "Cortex Debug",
             "cwd": "${workspaceRoot}",
-            "executable": "./build/AllPrime_Refrigerator_Master.elf",
+            "executable": "./build/AllPrime_Heating_Machine.elf",
             "request": "attach",
             "type": "cortex-debug",
             "servertype": "openocd",
