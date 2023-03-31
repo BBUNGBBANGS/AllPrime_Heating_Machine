@@ -12,5 +12,7 @@
         "stm32f1xx_hal.h": "c",
         "eeprom.h": "c"
     },
-    "cortex-debug.showRTOS": false
+    "cortex-debug.showRTOS": false,
+    "stm32-for-vscode.openOCDPath": false,
+    "stm32-for-vscode.armToolchainPath": false
 }

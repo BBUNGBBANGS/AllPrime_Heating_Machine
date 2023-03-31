@@ -71,6 +71,7 @@ ASM_SOURCES =
 #######################################
 # binaries
 #######################################
+GCC_PATH = /Users/seojisu/Library/Arm-GCC-xPack/bin
 PREFIX = arm-none-eabi-
 # The gcc compiler bin path can be either defined in make command via GCC_PATH variable (> make GCC_PATH=xxx)
 # either it can be added to the PATH environment variable.
@@ -193,9 +194,12 @@ clean:
 # OpenOCD
 #######################################
 flash: all
+	ifdef GCC_PATH
+	/Users/seojisu/Library/xPacks/@xpack-dev-tools/openocd/0.11.0-4.1/.content/bin/openocd -f interface/stlink.cfg -f target/stm32f0x.cfg -c "program $(BUILD_DIR)/$(TARGET).elf verify reset exit"
+	else
 	openocd -f interface/stlink.cfg -f target/stm32f0x.cfg -c "program $(BUILD_DIR)/$(TARGET).elf verify reset exit"
-
-#######################################
+	endif
+#######################################	
 # dependencies
 #######################################
 -include $(wildcard $(BUILD_DIR)/*.d)

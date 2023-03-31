@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 1
+ARM GAS  /var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s 			page 1
 
 
    1              		.cpu cortex-m0
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 1
   30:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c ****   *                        opensource.org/licenses/BSD-3-Clause
   31:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c ****   *
   32:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c ****   ******************************************************************************
-ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 2
+ARM GAS  /var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s 			page 2
 
 
   33:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c ****   */
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 1
   87:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c ****   * @}
   88:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c ****   */
   89:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c **** /* Private function prototypes -----------------------------------------------*/
-ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 3
+ARM GAS  /var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s 			page 3
 
 
   90:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c **** /* Exported functions ---------------------------------------------------------*/
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 1
  144:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c **** #if (PREFETCH_ENABLE != 0)
  145:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c ****   __HAL_FLASH_PREFETCH_BUFFER_ENABLE();
  146:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c **** #endif /* PREFETCH_ENABLE */
-ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 4
+ARM GAS  /var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s 			page 4
 
 
  147:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c **** 
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 1
   34 0000 7047     		bx	lr
   35              		.cfi_endproc
   36              	.LFE42:
-ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 5
+ARM GAS  /var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s 			page 5
 
 
   38              		.section	.text.HAL_MspDeInit,"ax",%progbits
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 1
   81              		.loc 1 169 3 view .LVU6
   82 000a 0022     		movs	r2, #0
   83 000c 1A61     		str	r2, [r3, #16]
-ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 6
+ARM GAS  /var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s 			page 6
 
 
  171:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c ****   __HAL_RCC_APB2_RELEASE_RESET();
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 1
  220:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c ****   * @retval HAL status
  221:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c ****   */
  222:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c **** __weak HAL_StatusTypeDef HAL_InitTick(uint32_t TickPriority)
-ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 7
+ARM GAS  /var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s 			page 7
 
 
  223:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c **** {
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 1
  156 0028 0AE0     		b	.L7
  157              	.L10:
  233:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c ****     uwTickPrio = TickPriority;
-ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 8
+ARM GAS  /var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s 			page 8
 
 
  158              		.loc 1 233 5 is_stmt 1 view .LVU24
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 1
  205              	.LCFI2:
  206              		.cfi_def_cfa_offset 8
  207              		.cfi_offset 4, -8
-ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 9
+ARM GAS  /var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s 			page 9
 
 
  208              		.cfi_offset 14, -4
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 1
  260:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c ****       (+) Resume the time base source interrupt
  261:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c ****       (+) Get the HAL API driver version
  262:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c ****       (+) Get the device identifier
-ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 10
+ARM GAS  /var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s 			page 10
 
 
  263:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c ****       (+) Get the device revision identifier
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 1
  286:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c **** /**
  287:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c ****   * @brief  Provides a tick value in millisecond.
  288:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c ****   * @note   This function is declared as __weak  to be overwritten  in case of other 
-ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 11
+ARM GAS  /var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s 			page 11
 
 
  289:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c ****   *       implementations in user file.
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 1
  316              	.L24:
  317 0006 C046     		.align	2
  318              	.L23:
-ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 12
+ARM GAS  /var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s 			page 12
 
 
  319 0008 00000000 		.word	.LANCHOR1
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 1
  321:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c **** 
  322:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c ****     /* Update uwTickFreq global variable used by HAL_InitTick() */
  323:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c ****     uwTickFreq = Freq;
-ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 13
+ARM GAS  /var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s 			page 13
 
 
  324:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c **** 
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 1
  389 0028 00000000 		.word	.LANCHOR1
  390              		.cfi_endproc
  391              	.LFE48:
-ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 14
+ARM GAS  /var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s 			page 14
 
 
  393              		.section	.text.HAL_GetTickFreq,"ax",%progbits
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 1
  356:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c ****   * @retval None
  357:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c ****   */
  358:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c **** __weak void HAL_Delay(uint32_t Delay)
-ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 15
+ARM GAS  /var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s 			page 15
 
 
  359:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c **** {
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 1
  469              		.loc 1 369 24 discriminator 1 view .LVU89
  470 0018 401B     		subs	r0, r0, r5
  369:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c ****   {
-ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 16
+ARM GAS  /var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s 			page 16
 
 
  471              		.loc 1 369 8 discriminator 1 view .LVU90
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 1
  509 000a 7047     		bx	lr
  510              	.L41:
  511              		.align	2
-ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 17
+ARM GAS  /var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s 			page 17
 
 
  512              	.L40:
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 1
  554              	HAL_GetHalVersion:
  555              	.LFB53:
  406:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c **** 
-ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 18
+ARM GAS  /var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s 			page 18
 
 
  407:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c **** /**
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 1
  595 0006 7047     		bx	lr
  596              	.L50:
  597              		.align	2
-ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 19
+ARM GAS  /var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s 			page 19
 
 
  598              	.L49:
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 1
  437:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c ****   */
  438:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c **** uint32_t HAL_GetUIDw0(void)
  439:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c **** {
-ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 20
+ARM GAS  /var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s 			page 20
 
 
  643              		.loc 1 439 1 is_stmt 1 view -0
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 1
  688              	.LFE57:
  690              		.section	.text.HAL_GetUIDw2,"ax",%progbits
  691              		.align	1
-ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 21
+ARM GAS  /var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s 			page 21
 
 
  692              		.global	HAL_GetUIDw2
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 1
  732              		.loc 1 467 3 view .LVU125
  733 0000 024A     		ldr	r2, .L64
  734 0002 5368     		ldr	r3, [r2, #4]
-ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 22
+ARM GAS  /var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s 			page 22
 
 
  735 0004 0221     		movs	r1, #2
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 1
  782              		.code	16
  783              		.thumb_func
  785              	HAL_DBGMCU_EnableDBGStandbyMode:
-ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 23
+ARM GAS  /var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s 			page 23
 
 
  786              	.LFB61:
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 1
  825 0004 0421     		movs	r1, #4
  826 0006 8B43     		bics	r3, r1
  827 0008 5360     		str	r3, [r2, #4]
-ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 24
+ARM GAS  /var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s 			page 24
 
 
  495:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c **** }
@@ -1410,94 +1410,94 @@ ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 1
  860 0000 04000000 		.word	4
  861              		.text
  862              	.Letext0:
- 863              		.file 2 "d:\\3.tools\\arm_gcc_toolchain\\arm-none-eabi\\include\\machine\\_default_types.h"
- 864              		.file 3 "d:\\3.tools\\arm_gcc_toolchain\\arm-none-eabi\\include\\sys\\_stdint.h"
+ 863              		.file 2 "/Users/seojisu/Library/Arm-GCC-xPack/arm-none-eabi/include/machine/_default_types.h"
+ 864              		.file 3 "/Users/seojisu/Library/Arm-GCC-xPack/arm-none-eabi/include/sys/_stdint.h"
  865              		.file 4 "Drivers/CMSIS/Include/core_cm0.h"
  866              		.file 5 "Drivers/CMSIS/Device/ST/STM32F0xx/Include/stm32f030x8.h"
  867              		.file 6 "Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_def.h"
  868              		.file 7 "Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal.h"
  869              		.file 8 "Drivers/CMSIS/Device/ST/STM32F0xx/Include/system_stm32f0xx.h"
  870              		.file 9 "Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_cortex.h"
-ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 25
+ARM GAS  /var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s 			page 25
 
 
 DEFINED SYMBOLS
-                            *ABS*:00000000 stm32f0xx_hal.c
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:18     .text.HAL_MspInit:00000000 $t
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:24     .text.HAL_MspInit:00000000 HAL_MspInit
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:39     .text.HAL_MspDeInit:00000000 $t
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:45     .text.HAL_MspDeInit:00000000 HAL_MspDeInit
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:59     .text.HAL_DeInit:00000000 $t
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:65     .text.HAL_DeInit:00000000 HAL_DeInit
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:103    .text.HAL_DeInit:00000020 $d
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:109    .text.HAL_InitTick:00000000 $t
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:115    .text.HAL_InitTick:00000000 HAL_InitTick
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:185    .text.HAL_InitTick:00000044 $d
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:192    .text.HAL_Init:00000000 $t
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:198    .text.HAL_Init:00000000 HAL_Init
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:230    .text.HAL_Init:0000001c $d
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:235    .text.HAL_IncTick:00000000 $t
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:241    .text.HAL_IncTick:00000000 HAL_IncTick
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:262    .text.HAL_IncTick:00000010 $d
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:268    .text.HAL_GetTick:00000000 $t
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:274    .text.HAL_GetTick:00000000 HAL_GetTick
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:291    .text.HAL_GetTick:00000008 $d
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:296    .text.HAL_GetTickPrio:00000000 $t
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:302    .text.HAL_GetTickPrio:00000000 HAL_GetTickPrio
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:319    .text.HAL_GetTickPrio:00000008 $d
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:324    .text.HAL_SetTickFreq:00000000 $t
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:330    .text.HAL_SetTickFreq:00000000 HAL_SetTickFreq
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:388    .text.HAL_SetTickFreq:00000024 $d
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:394    .text.HAL_GetTickFreq:00000000 $t
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:400    .text.HAL_GetTickFreq:00000000 HAL_GetTickFreq
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:417    .text.HAL_GetTickFreq:00000008 $d
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:422    .text.HAL_Delay:00000000 $t
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:428    .text.HAL_Delay:00000000 HAL_Delay
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:483    .text.HAL_Delay:00000020 $d
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:488    .text.HAL_SuspendTick:00000000 $t
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:494    .text.HAL_SuspendTick:00000000 HAL_SuspendTick
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:513    .text.HAL_SuspendTick:0000000c $d
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:518    .text.HAL_ResumeTick:00000000 $t
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:524    .text.HAL_ResumeTick:00000000 HAL_ResumeTick
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:543    .text.HAL_ResumeTick:0000000c $d
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:548    .text.HAL_GetHalVersion:00000000 $t
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:554    .text.HAL_GetHalVersion:00000000 HAL_GetHalVersion
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:569    .text.HAL_GetHalVersion:00000004 $d
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:574    .text.HAL_GetREVID:00000000 $t
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:580    .text.HAL_GetREVID:00000000 HAL_GetREVID
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:599    .text.HAL_GetREVID:00000008 $d
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:604    .text.HAL_GetDEVID:00000000 $t
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:610    .text.HAL_GetDEVID:00000000 HAL_GetDEVID
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:630    .text.HAL_GetDEVID:0000000c $d
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:635    .text.HAL_GetUIDw0:00000000 $t
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:641    .text.HAL_GetUIDw0:00000000 HAL_GetUIDw0
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:658    .text.HAL_GetUIDw0:00000008 $d
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:663    .text.HAL_GetUIDw1:00000000 $t
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:669    .text.HAL_GetUIDw1:00000000 HAL_GetUIDw1
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:686    .text.HAL_GetUIDw1:00000008 $d
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:691    .text.HAL_GetUIDw2:00000000 $t
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:697    .text.HAL_GetUIDw2:00000000 HAL_GetUIDw2
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:714    .text.HAL_GetUIDw2:00000008 $d
-ARM GAS  C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s 			page 26
+                            *ABS*:0000000000000000 stm32f0xx_hal.c
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:18     .text.HAL_MspInit:0000000000000000 $t
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:24     .text.HAL_MspInit:0000000000000000 HAL_MspInit
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:39     .text.HAL_MspDeInit:0000000000000000 $t
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:45     .text.HAL_MspDeInit:0000000000000000 HAL_MspDeInit
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:59     .text.HAL_DeInit:0000000000000000 $t
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:65     .text.HAL_DeInit:0000000000000000 HAL_DeInit
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:103    .text.HAL_DeInit:0000000000000020 $d
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:109    .text.HAL_InitTick:0000000000000000 $t
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:115    .text.HAL_InitTick:0000000000000000 HAL_InitTick
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:185    .text.HAL_InitTick:0000000000000044 $d
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:192    .text.HAL_Init:0000000000000000 $t
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:198    .text.HAL_Init:0000000000000000 HAL_Init
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:230    .text.HAL_Init:000000000000001c $d
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:235    .text.HAL_IncTick:0000000000000000 $t
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:241    .text.HAL_IncTick:0000000000000000 HAL_IncTick
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:262    .text.HAL_IncTick:0000000000000010 $d
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:268    .text.HAL_GetTick:0000000000000000 $t
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:274    .text.HAL_GetTick:0000000000000000 HAL_GetTick
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:291    .text.HAL_GetTick:0000000000000008 $d
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:296    .text.HAL_GetTickPrio:0000000000000000 $t
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:302    .text.HAL_GetTickPrio:0000000000000000 HAL_GetTickPrio
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:319    .text.HAL_GetTickPrio:0000000000000008 $d
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:324    .text.HAL_SetTickFreq:0000000000000000 $t
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:330    .text.HAL_SetTickFreq:0000000000000000 HAL_SetTickFreq
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:388    .text.HAL_SetTickFreq:0000000000000024 $d
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:394    .text.HAL_GetTickFreq:0000000000000000 $t
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:400    .text.HAL_GetTickFreq:0000000000000000 HAL_GetTickFreq
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:417    .text.HAL_GetTickFreq:0000000000000008 $d
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:422    .text.HAL_Delay:0000000000000000 $t
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:428    .text.HAL_Delay:0000000000000000 HAL_Delay
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:483    .text.HAL_Delay:0000000000000020 $d
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:488    .text.HAL_SuspendTick:0000000000000000 $t
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:494    .text.HAL_SuspendTick:0000000000000000 HAL_SuspendTick
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:513    .text.HAL_SuspendTick:000000000000000c $d
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:518    .text.HAL_ResumeTick:0000000000000000 $t
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:524    .text.HAL_ResumeTick:0000000000000000 HAL_ResumeTick
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:543    .text.HAL_ResumeTick:000000000000000c $d
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:548    .text.HAL_GetHalVersion:0000000000000000 $t
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:554    .text.HAL_GetHalVersion:0000000000000000 HAL_GetHalVersion
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:569    .text.HAL_GetHalVersion:0000000000000004 $d
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:574    .text.HAL_GetREVID:0000000000000000 $t
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:580    .text.HAL_GetREVID:0000000000000000 HAL_GetREVID
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:599    .text.HAL_GetREVID:0000000000000008 $d
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:604    .text.HAL_GetDEVID:0000000000000000 $t
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:610    .text.HAL_GetDEVID:0000000000000000 HAL_GetDEVID
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:630    .text.HAL_GetDEVID:000000000000000c $d
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:635    .text.HAL_GetUIDw0:0000000000000000 $t
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:641    .text.HAL_GetUIDw0:0000000000000000 HAL_GetUIDw0
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:658    .text.HAL_GetUIDw0:0000000000000008 $d
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:663    .text.HAL_GetUIDw1:0000000000000000 $t
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:669    .text.HAL_GetUIDw1:0000000000000000 HAL_GetUIDw1
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:686    .text.HAL_GetUIDw1:0000000000000008 $d
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:691    .text.HAL_GetUIDw2:0000000000000000 $t
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:697    .text.HAL_GetUIDw2:0000000000000000 HAL_GetUIDw2
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:714    .text.HAL_GetUIDw2:0000000000000008 $d
+ARM GAS  /var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s 			page 26
 
 
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:719    .text.HAL_DBGMCU_EnableDBGStopMode:00000000 $t
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:725    .text.HAL_DBGMCU_EnableDBGStopMode:00000000 HAL_DBGMCU_EnableDBGStopMode
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:744    .text.HAL_DBGMCU_EnableDBGStopMode:0000000c $d
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:749    .text.HAL_DBGMCU_DisableDBGStopMode:00000000 $t
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:755    .text.HAL_DBGMCU_DisableDBGStopMode:00000000 HAL_DBGMCU_DisableDBGStopMode
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:774    .text.HAL_DBGMCU_DisableDBGStopMode:0000000c $d
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:779    .text.HAL_DBGMCU_EnableDBGStandbyMode:00000000 $t
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:785    .text.HAL_DBGMCU_EnableDBGStandbyMode:00000000 HAL_DBGMCU_EnableDBGStandbyMode
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:804    .text.HAL_DBGMCU_EnableDBGStandbyMode:0000000c $d
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:809    .text.HAL_DBGMCU_DisableDBGStandbyMode:00000000 $t
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:815    .text.HAL_DBGMCU_DisableDBGStandbyMode:00000000 HAL_DBGMCU_DisableDBGStandbyMode
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:834    .text.HAL_DBGMCU_DisableDBGStandbyMode:0000000c $d
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:852    .data.uwTickFreq:00000000 uwTickFreq
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:859    .data.uwTickPrio:00000000 uwTickPrio
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:846    .bss.uwTick:00000000 uwTick
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:842    .bss.uwTick:00000000 $d
-C:\Users\jisu8\AppData\Local\Temp\ccck5nHa.s:855    .data.uwTickPrio:00000000 $d
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:719    .text.HAL_DBGMCU_EnableDBGStopMode:0000000000000000 $t
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:725    .text.HAL_DBGMCU_EnableDBGStopMode:0000000000000000 HAL_DBGMCU_EnableDBGStopMode
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:744    .text.HAL_DBGMCU_EnableDBGStopMode:000000000000000c $d
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:749    .text.HAL_DBGMCU_DisableDBGStopMode:0000000000000000 $t
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:755    .text.HAL_DBGMCU_DisableDBGStopMode:0000000000000000 HAL_DBGMCU_DisableDBGStopMode
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:774    .text.HAL_DBGMCU_DisableDBGStopMode:000000000000000c $d
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:779    .text.HAL_DBGMCU_EnableDBGStandbyMode:0000000000000000 $t
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:785    .text.HAL_DBGMCU_EnableDBGStandbyMode:0000000000000000 HAL_DBGMCU_EnableDBGStandbyMode
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:804    .text.HAL_DBGMCU_EnableDBGStandbyMode:000000000000000c $d
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:809    .text.HAL_DBGMCU_DisableDBGStandbyMode:0000000000000000 $t
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:815    .text.HAL_DBGMCU_DisableDBGStandbyMode:0000000000000000 HAL_DBGMCU_DisableDBGStandbyMode
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:834    .text.HAL_DBGMCU_DisableDBGStandbyMode:000000000000000c $d
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:852    .data.uwTickFreq:0000000000000000 uwTickFreq
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:859    .data.uwTickPrio:0000000000000000 uwTickPrio
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:846    .bss.uwTick:0000000000000000 uwTick
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:842    .bss.uwTick:0000000000000000 $d
+/var/folders/d0/cymppscj10lcmm48h781wrc80000gn/T//ccSWGIDY.s:855    .data.uwTickPrio:0000000000000000 $d
 
 UNDEFINED SYMBOLS
 __aeabi_uidiv
